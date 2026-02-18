@@ -11,7 +11,6 @@ const nextConfig: NextConfig = {
             },
         ],
     },
-    outputFileTracingRoot: "/Users/mac/Documents/ddf/My site movie",
 };
 
 export default nextConfig;
