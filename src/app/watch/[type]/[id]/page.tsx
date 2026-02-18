@@ -7,6 +7,7 @@ import { MovieDetails } from "@/types";
 
 import EpisodeSelector from "@/components/EpisodeSelector";
 
+// @ts-expect-error - Next.js 15 params type workaround
 interface Props {
     params: Promise<{ type: "movie" | "tv"; id: string }>;
     searchParams: Promise<{ season?: string; episode?: string }>;
