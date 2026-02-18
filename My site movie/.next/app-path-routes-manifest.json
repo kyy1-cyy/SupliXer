@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/anime/page": "/anime",
+  "/movie/page": "/movie",
+  "/history/page": "/history",
+  "/top-rated/page": "/top-rated",
+  "/watchlist/page": "/watchlist",
+  "/page": "/",
+  "/search/page": "/search",
+  "/tv/page": "/tv",
+  "/watch/[type]/[id]/page": "/watch/[type]/[id]"
+}
